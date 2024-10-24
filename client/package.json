@@ -10,7 +10,7 @@
   "dependencies": {
     "axios": "0.28.0",
     "core-js": "^3.4.4",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vuejs-logger": "1.5.3"
   },
   "devDependencies": {
